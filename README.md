@@ -10,13 +10,13 @@
 
 📦 This repository contains the original ringtones and notifications sound pack for the new [Microsoft Teams](https://teams.microsoft.com/).
 
-## Important Notes ⚠️
+## ⚠️ Important Notes
 - 🚨 These sounds are provided for personal use only.
 - 📄 Microsoft retains all copyrights to the original audio files.
 - 🚫 No infringement is intended.
 
-## License 📜
+## 📜 License
 - 📝 This project is licensed under the [MIT License](LICENSE).
 
-## Contribution ✨
+## ✨ Contribution
 - 🛠️ Feel free to contribute by opening issues or submitting pull requests.
