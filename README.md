@@ -1,7 +1,4 @@
-<h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" alt="Microsoft Teams Logo" width="50" style="vertical-align: middle;"/> 
-  MS Teams Soundpack
-</h1>
+# MS Teams Soundpack
 
 <!-- BADGES:START -->
 [![License](https://img.shields.io/github/license/5a9awneh/ms-teams-sounds)](LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/5a9awneh/ms-teams-sounds)](https://github.com/5a9awneh/ms-teams-sounds/commits/main) [![Format](https://img.shields.io/badge/format-MP3-blue?style=flat)](https://github.com/5a9awneh/ms-teams-sounds) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](http://makeapullrequest.com) [![Human in the Loop](https://img.shields.io/badge/human--in--the--loop-%E2%9C%93-brightgreen?style=flat)](https://github.com/5a9awneh/ms-teams-sounds)
