@@ -1,6 +1,6 @@
 <h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" alt="Microsoft Teams Logo" width="50" style="vertical-align: middle;"/> 
-  MS Teams Soundpack 🎶🔔
+  MS Teams Soundpack
 </h1>
 
 <!-- BADGES:START -->
